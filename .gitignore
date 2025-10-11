@@ -1,0 +1,11 @@
+# Python virtual environment
+backend/venv/
+
+# Node modules
+frontend/node_modules/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
